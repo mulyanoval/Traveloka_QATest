@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_css-1dbjc4n r-1q9bdsx r-d045u9 r-tbmifm_c9da47_1</name>
+   <tag></tag>
+   <elementGuidId>13446c4d-2c59-48ee-b7af-f62ec7ed2d67</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='RENTAL_DROPOFF_LOCATION']/div/div/div[5]/div/div[2]/div/div/div/div/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>3c01bd22-8847-4266-80d0-fb32f4964243</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>css-1dbjc4n r-1q9bdsx r-d045u9 r-tbmifm r-16eto9q</value>
+      <webElementGuid>f1289fa3-f531-4e70-9c68-27dd27dc61c4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;RENTAL_DROPOFF_LOCATION&quot;)/div[@class=&quot;css-1dbjc4n r-14lw9ot r-kdyh1x r-b4qz5r r-1ifxtd0 r-nsbfu8 r-184en5c&quot;]/div[@class=&quot;css-1dbjc4n r-eqz5dr&quot;]/div[@class=&quot;css-1dbjc4n r-14lw9ot r-kdyh1x r-da5iq2&quot;]/div[@class=&quot;css-1dbjc4n r-18u37iz&quot;]/div[@class=&quot;css-1dbjc4n&quot;]/div[@class=&quot;css-1dbjc4n r-1awozwy r-1loqt21 r-18u37iz r-10paoce r-1otgn73 r-1i6wzkk r-lrvibr&quot;]/div[@class=&quot;css-1dbjc4n r-1awozwy r-18u37iz r-1777fci r-ymttw5 r-1yzf0co&quot;]/div[@class=&quot;css-1dbjc4n r-1awozwy r-1472mwg r-1777fci r-88pszg r-lrsllp&quot;]/div[@class=&quot;css-1dbjc4n r-1awozwy r-14lw9ot r-16uyjmq r-rs99b7 r-18yzcnr r-1777fci r-yc9v9c&quot;]/div[@class=&quot;css-1dbjc4n r-1q9bdsx r-d045u9 r-tbmifm r-16eto9q&quot;]</value>
+      <webElementGuid>99fb3b36-1db2-49db-a4cb-fb10a01b4513</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='RENTAL_DROPOFF_LOCATION']/div/div/div[5]/div/div[2]/div/div/div/div/div[2]</value>
+      <webElementGuid>801ff78d-bf0b-4387-9942-dca3b78ec688</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div[5]/div/div[2]/div/div/div/div/div[2]</value>
+      <webElementGuid>e5ed80fd-f30b-4c9f-8ccf-c8bb55be9c16</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

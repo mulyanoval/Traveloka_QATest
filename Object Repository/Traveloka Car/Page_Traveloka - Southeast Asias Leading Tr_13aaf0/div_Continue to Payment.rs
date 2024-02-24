@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Continue to Payment</name>
+   <tag></tag>
+   <elementGuidId>42509abd-ef58-4922-9603-bc14c577d07a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div[2]/div[2]/div/div[14]/div/div/div/div[2]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.css-901oao.css-bfa6kz.r-jwli3a.r-t1w4ow.r-1uirtdp.r-b88u0q.r-uzxld0.r-q4m81j</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>d55f5127-e81e-4c31-a953-46afe8927d95</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>dir</name>
+      <type>Main</type>
+      <value>auto</value>
+      <webElementGuid>92929c0d-82d4-4b65-a352-46e356fd0874</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>885ce474-849f-441f-be08-aa0dc072f924</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>css-901oao css-bfa6kz r-jwli3a r-t1w4ow r-1uirtdp r-b88u0q r-uzxld0 r-q4m81j</value>
+      <webElementGuid>5269da56-1ff8-4ad0-831e-573dc24a3ee7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Continue to Payment</value>
+      <webElementGuid>f3704734-892b-48a2-9e4b-d7ea01e23513</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;css-1dbjc4n r-1kihuf0 r-16y2uox r-15g7tld r-11c0sde r-uwe93p r-184en5c&quot;]/div[@class=&quot;css-1dbjc4n r-18u37iz r-1wtj0ep&quot;]/div[@class=&quot;css-1dbjc4n r-tzxfm6&quot;]/div[@class=&quot;css-1dbjc4n&quot;]/div[@class=&quot;css-1dbjc4n r-18u37iz r-17s6mgv&quot;]/div[@class=&quot;css-1dbjc4n r-14l27qf&quot;]/div[@class=&quot;css-18t94o4 css-1dbjc4n r-kdyh1x r-oo3563 r-1loqt21 r-10paoce r-1e081e0 r-5njf8e r-1otgn73 r-lrvibr&quot;]/div[@class=&quot;css-1dbjc4n r-1awozwy r-13awgt0 r-18u37iz r-1777fci&quot;]/div[@class=&quot;css-901oao css-bfa6kz r-jwli3a r-t1w4ow r-1uirtdp r-b88u0q r-uzxld0 r-q4m81j&quot;]</value>
+      <webElementGuid>09ea439d-c5bf-426c-86f6-4c0024941256</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div[2]/div[2]/div/div[14]/div/div/div/div[2]/div</value>
+      <webElementGuid>07d449ee-7957-43fc-925e-2b6790e0d663</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[14]/div/div/div/div[2]/div</value>
+      <webElementGuid>6f695be5-54cd-4fc9-b12d-6f40e6082ac1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Continue to Payment' or . = 'Continue to Payment')]</value>
+      <webElementGuid>ed64aee6-5adf-4d1c-a8fe-f764d7bbfe98</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

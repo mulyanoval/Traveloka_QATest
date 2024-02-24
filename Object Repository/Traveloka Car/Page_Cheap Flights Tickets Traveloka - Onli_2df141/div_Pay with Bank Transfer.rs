@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Pay with Bank Transfer</name>
+   <tag></tag>
+   <elementGuidId>adbe7c37-5e93-4397-976b-5bbcf754fc54</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div[2]/div/div[2]/div/div/div[2]/div/div[7]/div[2]/div[2]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.css-901oao.css-bfa6kz.r-jwli3a.r-t1w4ow.r-cygvgh.r-b88u0q.r-1iukymi.r-q4m81j</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>fe7ff200-1b41-4fa3-85a9-142cab32588a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>dir</name>
+      <type>Main</type>
+      <value>auto</value>
+      <webElementGuid>f3502225-65eb-4385-80a2-0ebd6b75bbea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>3028a1b7-03e8-491b-9004-019ab3141424</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>css-901oao css-bfa6kz r-jwli3a r-t1w4ow r-cygvgh r-b88u0q r-1iukymi r-q4m81j</value>
+      <webElementGuid>af84e75f-4f0f-497c-aa62-6f8049946e78</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Pay with Bank Transfer</value>
+      <webElementGuid>3841bc80-f8cf-43c8-bbc8-8939fcb5bd64</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;css-1dbjc4n&quot;]/div[@class=&quot;css-1dbjc4n&quot;]/div[@class=&quot;css-1dbjc4n r-mabd2g&quot;]/div[@class=&quot;css-1dbjc4n r-ywje51 r-zd98yo r-uwe93p&quot;]/div[@class=&quot;css-1dbjc4n r-1habvwh r-13awgt0 r-18u37iz&quot;]/div[@class=&quot;css-1dbjc4n r-1oszu61 r-1492nhi r-kdyh1x r-1yos0t3 r-13awgt0 r-18u37iz r-1h0z5md r-1udh08x r-1wi2xyk&quot;]/div[@class=&quot;css-1dbjc4n r-1pz39u2 r-14lw9ot r-13awgt0&quot;]/div[@class=&quot;css-1dbjc4n&quot;]/div[@class=&quot;css-1dbjc4n r-qn3fzs r-95jzfe&quot;]/div[@class=&quot;css-18t94o4 css-1dbjc4n r-173mn98 r-kdyh1x r-oo3563 r-1loqt21 r-1hy1u7s r-1r5su4o r-10paoce r-1e081e0 r-5njf8e r-1otgn73 r-lrvibr&quot;]/div[@class=&quot;css-1dbjc4n r-1awozwy r-13awgt0 r-18u37iz r-1777fci r-icoktb&quot;]/div[@class=&quot;css-901oao css-bfa6kz r-jwli3a r-t1w4ow r-cygvgh r-b88u0q r-1iukymi r-q4m81j&quot;]</value>
+      <webElementGuid>acb917f2-6ec2-4b0e-9aa9-06e843e5bd77</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div[2]/div/div[2]/div/div/div[2]/div/div[7]/div[2]/div[2]/div</value>
+      <webElementGuid>78aeb107-bf95-43a8-a4a8-cf4a94ba22f7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[7]/div[2]/div[2]/div</value>
+      <webElementGuid>74f193be-b66a-452e-bf4b-f23e575e21df</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Pay with Bank Transfer' or . = 'Pay with Bank Transfer')]</value>
+      <webElementGuid>71347bf5-424a-4ecd-b313-aa97c8fa25ad</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
